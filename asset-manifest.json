@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Lahoun-Sector-booklet/static/css/main.6f67e3f1.css",
-    "main.js": "/Lahoun-Sector-booklet/static/js/main.e3994667.js",
+    "main.js": "/Lahoun-Sector-booklet/static/js/main.44f84fb6.js",
     "index.html": "/Lahoun-Sector-booklet/index.html",
     "main.6f67e3f1.css.map": "/Lahoun-Sector-booklet/static/css/main.6f67e3f1.css.map",
-    "main.e3994667.js.map": "/Lahoun-Sector-booklet/static/js/main.e3994667.js.map"
+    "main.44f84fb6.js.map": "/Lahoun-Sector-booklet/static/js/main.44f84fb6.js.map"
   },
   "entrypoints": [
     "static/css/main.6f67e3f1.css",
-    "static/js/main.e3994667.js"
+    "static/js/main.44f84fb6.js"
   ]
 }
